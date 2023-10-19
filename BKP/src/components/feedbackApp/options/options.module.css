@@ -1,0 +1,12 @@
+.buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.btn {
+  cursor: pointer;
+  border-radius: 15%;
+  border: solid 1px gray;
+  background-color: whitesmoke;
+  padding: 10px;
+}
