@@ -14,7 +14,7 @@ export class App extends Component {
     return (
       <>
         <Section title="Please leave feedback of this App:">
-          <Options options={btn} />
+          <Options buttons={btn} />
         </Section>
       </>
     );
